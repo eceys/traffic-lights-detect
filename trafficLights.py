@@ -6,7 +6,7 @@ import datetime
 def nothing(x):
     pass
 
-cap = cv2.VideoCapture("videoplayback.mp4")
+cap = cv2.VideoCapture("videoplayback.mp4") #change video name here
 
 
 redTime = []
